@@ -14,4 +14,3 @@ to be inserted soon
 
 Languages and Tools:
 c css3 figma html5  javascript mysql python react Dart Latex flutter
-About Me
